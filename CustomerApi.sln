@@ -17,11 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data.EF", "src\Data.EF\Data
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain.Abstractions", "src\Domain.Abstractions\Domain.Abstractions.csproj", "{645C784B-8660-476B-8356-0AE39D0F641A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.Service.Tests", "tests\Api.Service.Tests\Api.Service.Tests.csproj", "{FC3A6892-091A-42DB-9446-3715A20B94FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api.Service.Tests", "tests\Api.Service.Tests\Api.Service.Tests.csproj", "{FC3A6892-091A-42DB-9446-3715A20B94FA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Misc", "Misc", "{78BF3FF5-A360-4BD1-8303-9A99D7808B5A}"
 	ProjectSection(SolutionItems) = preProject
-		README.txt = README.txt
+		README.md = README.md
 	EndProjectSection
 EndProject
 Global
