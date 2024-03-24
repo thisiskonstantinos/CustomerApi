@@ -1,6 +1,6 @@
 # The Customer API
 
-This API is a simple implementation of CRUD operation for a single Customer table in SQLite with Entity Framework.
+This API is a simple implementation of CRUD operations for a single Customer table in SQLite with Entity Framework.
 
 ## Improvements and future work
 * The Solution is split into layers that are represented by Projects
